@@ -1,0 +1,158 @@
+@media only screen and (max-width:1400px) {
+    .deal .dealv h1{
+        font-size: 18px;
+    }
+    .deal .dealv h2{
+        font-size: 14px;
+    }
+    .deal .dealv h3{
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width:1000px) {
+    .box1 img{
+        width: auto;
+        height:25px;
+        padding:10px 0px 0px 2vw;
+    }
+    .specialP{
+        margin:10px 0px 3px 0px;
+        width:100vw;
+        height:auto;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: no-wrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .specialP .specialC img{
+        width:100vw;
+        height:30vw;
+        border-radius: 3px;
+    }
+    .slideshow-container {
+        height: 280px;
+    }
+}
+@media only screen and (max-width:900px){
+    .box2{
+        width:55vw;
+    }
+    .box2 input{
+        width:35vw;
+    }
+    .box2 .btn{
+        width:15vw;
+    }
+    .bottom h5{
+        font-size: 22px;
+    }
+    .bottom h6{
+        font-size: 12px;
+    }
+    .slideshow-container {
+        height: 250px;
+    }
+    .Health{
+        height:240px;
+    }
+}
+@media only screen and (max-width:750px){
+    .navbar{
+        height:150px;
+        flex-direction: column;
+    }
+    .box1{
+        width: 30vw;
+        height:50px;
+        text-align: center;
+    }
+    .box2{
+        width:90vw;
+    }
+    .box2 input{
+        width:60vw;
+    }
+    .box2 .btn{
+        width:20vw;
+    }
+    .box3{
+        width:40vw;
+    }
+    .bottom{
+        height:50px;
+    }
+    .bottom h5{
+        font-size: 15px;
+        padding:5px 0px 3px 0px;
+    }
+    .bottom h6{
+        font-size: 10px;
+        padding:5px 0px 3px 0px;
+    }
+    .slideshow-container {
+        height: 210px;
+    }
+    .head h1{
+        font-size: 20px;
+        padding-left: 50px;
+    }
+    .Health{
+        height:210px;
+    }
+}
+@media only screen and (max-width:650px){
+    .slideshow-container {
+        height: 190px;
+    }
+    .Health{
+        height:190px;
+    }
+}
+@media only screen and (max-width:550px){
+    .slideshow-container {
+        height: 170px;
+    }
+    .Health{
+        height:170px;
+    }
+    .head h1{
+        font-size: 18px;
+        padding-left: 50px;
+    }
+}
+@media only screen and (max-width:450px){
+    .box1{
+        width:30vw;
+    }
+    .box3{
+        width:45vw;
+    }
+    .box3 h3{
+        font-size: 15px;
+    }
+    .bottom h5{
+        font-size: 10px;
+    }
+    .bottom h6{
+        font-size: 7px;
+    }
+    .bottom{
+        height:40px;
+    }
+    .slideshow-container {
+        height: 150px;
+    }
+    .Health{
+        height:150px;
+    }
+    .head button{
+        width:80px;
+        height:30px;
+        font-size: 8px;
+    }
+    .head h1{
+        font-size: 15px;
+        padding-left: 50px;
+    }
+}
